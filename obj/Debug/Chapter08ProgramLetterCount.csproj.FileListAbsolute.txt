@@ -1,0 +1,10 @@
+C:\VSRepositories\Chapter08ProgramLetterCount\obj\Debug\Chapter08ProgramLetterCount.csprojAssemblyReference.cache
+C:\VSRepositories\Chapter08ProgramLetterCount\obj\Debug\Chapter08ProgramLetterCount.frmMain.resources
+C:\VSRepositories\Chapter08ProgramLetterCount\obj\Debug\Chapter08ProgramLetterCount.Properties.Resources.resources
+C:\VSRepositories\Chapter08ProgramLetterCount\obj\Debug\Chapter08ProgramLetterCount.csproj.GenerateResource.cache
+C:\VSRepositories\Chapter08ProgramLetterCount\obj\Debug\Chapter08ProgramLetterCount.csproj.CoreCompileInputs.cache
+C:\VSRepositories\Chapter08ProgramLetterCount\bin\Debug\Chapter08ProgramLetterCount.exe.config
+C:\VSRepositories\Chapter08ProgramLetterCount\bin\Debug\Chapter08ProgramLetterCount.exe
+C:\VSRepositories\Chapter08ProgramLetterCount\bin\Debug\Chapter08ProgramLetterCount.pdb
+C:\VSRepositories\Chapter08ProgramLetterCount\obj\Debug\Chapter08ProgramLetterCount.exe
+C:\VSRepositories\Chapter08ProgramLetterCount\obj\Debug\Chapter08ProgramLetterCount.pdb
